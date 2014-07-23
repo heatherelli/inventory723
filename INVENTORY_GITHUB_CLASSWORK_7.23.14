@@ -1,0 +1,32 @@
+create a unique folder for inventory program
+
+initialize an empty Git repo for this folder
+
+add (ie stage) all files to be committed
+
+create a commit
+
+set up remote origin (ie copy/paste link from GH repo)
+
+push changes to GH repo
+
+Fork to another students repo 
+
+clone repo to computer
+
+make a simple change
+
+add these changes to the local git repo
+
+create commit for changes
+
+push this commit up to GitHub (ie up to forked repo)
+
+send a pull request to the other student with a basic message
+
+have other student accpet pull request and mae changes to the original Github repo
+
+have other student pull these changes down to their local computer, (editing the original file)
+
+THEN make severeal more changes (ie SIMLIFY CODE etc) create commits specific to these changes and then push/pull several commmits at once
+
