@@ -1,0 +1,22 @@
+# Inventory system should track the inventory count of 4 items. The program should output the current items in a numbered list, and their current counts to the screen and then prompt the user to enter which item should be edited. After the user chooses the item  to edit, the users should be allowed to enter a new inventory count for the item.
+# If you’re able to complete this:
+# Edit the program such that you can enter a command to exit the loop.
+# Edit the program such that you can replace one item with an entirely different item.
+
+
+# solution ideas
+
+# array, hash w/in array 
+# loops
+
+# Louis’ solution (33 lines long)
+
+# hash
+# item_names = item.keys
+
+# def method
+
+#items.each_with_index
+
+# while true loop
+# end
